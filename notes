@@ -1,0 +1,6 @@
+versions:
+bleak 0.14.2
+bluetoothctl: 5.64
+linux: 5.16.18-100.fc34.x86_64
+
+
